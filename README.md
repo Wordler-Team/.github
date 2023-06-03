@@ -1,4 +1,5 @@
-# "The Wordler knows the power of words, and the danger of their silence..."
+# Wordler
+### "The Wordler knows the power of words, and the danger of their silence..."
 
 Wordler is a fun and challenging bot based on the popular word game, Wordle!
 
